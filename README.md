@@ -2,4 +2,4 @@
 
 ## Preguntas para reflexionar
 
----
+### ¿Cuál es la diferencia en cómo iniciamos PikachuCorredor vs CharizardVolador?
